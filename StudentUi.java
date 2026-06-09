@@ -27,9 +27,7 @@ public class StudentUi extends JFrame {
 	private JTextField chi;
 	private JTextField name;
 
-	/**
-	 * Launch the application.
-	 */
+
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
@@ -43,9 +41,7 @@ public class StudentUi extends JFrame {
 		});
 	}
 
-	/**
-	 * Create the frame.
-	 */
+	
 	public StudentUi() {
 		setFont(new Font("Dialog", Font.PLAIN, 6));
 		setTitle("Title_java");
