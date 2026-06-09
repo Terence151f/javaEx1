@@ -43,9 +43,7 @@ public class StudentUi extends JFrame {
 		});
 	}
 
-	/**
-	 * Create the frame.
-	 */
+	
 	public StudentUi() {
 		setFont(new Font("Dialog", Font.PLAIN, 6));
 		setTitle("Title_java");
